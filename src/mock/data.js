@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Get in touch',
   btn: 'Contact Me',
-  email: 'https://www.linkedin.com/in/matthew-argenziano-407901152/',
+  email: 'matthewbargenziano@gmail.com',
 };
 
 // FOOTER DATA
