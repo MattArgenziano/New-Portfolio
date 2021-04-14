@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://f1-results.netlify.app/',
     repo: 'https://github.com/MattArgenziano/f1-results-api', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'aim_game.png',
+    title: 'Aim Game',
+    info: 'A game where you click on the squares as fast as you can in 30 seconds.',
+    info2: '',
+    url: 'https://aim-game.netlify.app/',
+    repo: 'https://github.com/MattArgenziano/Aim-Game', // if no repo, the button will not show up
+  }
 ];
 
 // CONTACT DATA
