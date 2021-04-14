@@ -19,14 +19,6 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-NM5NMG0FRS"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-NM5NMG0FRS');
-        </script>
         {headComponents}
       </head>
       <body {...bodyAttributes}>
