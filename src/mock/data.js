@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'aim_game.png',
     title: 'Aim Game',
-    info: 'A game where you click on the squares as fast as you can in 30 seconds.',
+    info: 'A game where you click on the squares as fast as you can in 30 seconds. This was built with HTMl, CSS, and JavaScript.',
     info2: '',
     url: 'https://aim-game.netlify.app/',
     repo: 'https://github.com/MattArgenziano/Aim-Game', // if no repo, the button will not show up
