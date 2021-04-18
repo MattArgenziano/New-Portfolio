@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I\'m a Shippensburg University Graduate from Easton, Pennsylvania. I am currently working as a consultant for Fitch Ratings as an Information Security Analyst. I am hoping to become a full-time Web Developer. The technologies I am currently using are HTML, CSS, Javascript, and the Fetch API. I hope to keep learning new technologies in the future.',
   paragraphTwo: 'You can see my LinkedIn or GitHub pages through the links at the bottom of the page.',
   paragraphThree: 'I\m excited to get started on my next project.',
-  resume: 'https://www.dropbox.com/s/d7nsjhjjhtl09ju/Resume%20%281%29.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/eps295d6vlt0226/Resume%20%281%29.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
