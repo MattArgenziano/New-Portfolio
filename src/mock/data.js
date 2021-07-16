@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'Apple Recreation.png',
+    title: 'Apple Recreation',
+    info: 'This project is a recreation of the Apple homepage. Created with vanilla HTML and CSS from scratch.',
+    info2: '',
+    url: 'https://apple-recreation-project.netlify.app/',
+    repo: 'https://github.com/MattArgenziano/AppleRecreation', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'f1Results.PNG',
     title: 'Formula 1 Race Results',
     info: 'This is a passion project as I\'m a big Formula 1 fan. The project utilizes the Ergast Motor Racing API to get the results. I used Skeleton CSS for the simple styling.',
